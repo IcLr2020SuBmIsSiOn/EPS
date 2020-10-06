@@ -51,7 +51,7 @@ TBA
 ```
 
 ## Citation
-Our work is based on the code of following papers ([DARTS](https://github.com/quark0/darts), [RandomNAS](https://github.com/liamcli/randomNAS_release), [NASBench-201](https://github.com/D-X-Y/AutoDL-Projects), [SPOS](https://github.com/megvii-model/SinglePathOneShot)
+Our work is based on the code of following papers ([DARTS](https://github.com/quark0/darts), [RandomNAS](https://github.com/liamcli/randomNAS_release), [NASBench-201](https://github.com/D-X-Y/AutoDL-Projects), [SPOS](https://github.com/megvii-model/SinglePathOneShot), 
 [Robust-DARTS](https://github.com/automl/RobustDARTS)). Also if EPS is good for you, please consider cite:
 ```
 @article{liu2018darts,
