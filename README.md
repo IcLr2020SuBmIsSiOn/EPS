@@ -27,7 +27,8 @@ bash run.sh
 ```
 #### Search the CNN ON ROBUST-DARTS search space: 
 ```
-TBA
+cd search_cnn_rdarts
+bash run.sh
 ```
 #### Search the RNN:
 ```
