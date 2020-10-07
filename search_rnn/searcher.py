@@ -19,7 +19,7 @@ def get_args():
     parser = argparse.ArgumentParser("EVOVIN")
     parser.add_argument('--eval', default=False, action='store_true')
     parser.add_argument('--eval-resume', type=str, default='./snet_detnas.pkl', help='path for eval model')
-    parser.add_argument('--batch-size', type=int, default=64, help='batch size')
+    parser.add_argument('--batch-size', type=int, default=128, help='batch size')
     parser.add_argument('--total-iters', type=int, default=80000, help='total iters')
     parser.add_argument('--learning-rate', type=float, default=0.1, help='init learning rate')
     parser.add_argument('--momentum', type=float, default=0.9, help='momentum')
